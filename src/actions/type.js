@@ -1,0 +1,1 @@
+export const SEARCH_COUNTRY = "search_country";
